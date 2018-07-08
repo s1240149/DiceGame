@@ -1,5 +1,8 @@
 import random
 
+name=input("What is your name? ")
+print("Hello, "+name+"!")
+
 random.seed()
 
 print("Rolling the dice...")
